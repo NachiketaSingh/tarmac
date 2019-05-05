@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="184544" started-at="2019-05-05T12:47:10Z" finished-at="2019-05-05T12:50:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="184544" started-at="2019-05-05T12:47:10Z" finished-at="2019-05-05T12:50:15Z">
+      <class name="hcl.HCLnTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:hcl.HCLnTest@42d80b78]" name="beforeClass" is-config="true" duration-ms="7087" started-at="2019-05-05T12:47:10Z" finished-at="2019-05-05T12:47:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="updateTarmac()[pri:0, instance:hcl.HCLnTest@42d80b78]" name="updateTarmac" duration-ms="177433" started-at="2019-05-05T12:47:17Z" finished-at="2019-05-05T12:50:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateTarmac -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:hcl.HCLnTest@42d80b78]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-05-05T12:50:15Z" finished-at="2019-05-05T12:50:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- hcl.HCLnTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
